@@ -1,0 +1,11 @@
+# Emacs backup files
+*~
+
+# Emacs autosave files
+# .#* is for autosave files while editing, .#*.* is for auto-save-list directory
+.#*
+.#*.*
+
+# Session files
+# This is for files created by desktop-save-mode
+.desktop
